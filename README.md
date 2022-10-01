@@ -3,7 +3,7 @@
 
 ![banner](https://hacktoberfest.com/_next/static/media/digitalocean-logo.43bef5fe.svg)
 
-## 🌱 Contributing to hacktoberfest 2021
+## 🌱 Contributing to hacktoberfest 2022
 
 ### Welcome to hacktoberfest 2021 Public Repository. 👨🏻‍💻
 <p>A month-long celebration from October 1st - 31st sponsored by Digital Ocean and GitHub to get people involved in Open Source. Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.

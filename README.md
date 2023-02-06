@@ -1,11 +1,11 @@
 
-# ✨ hacktoberfest2022 💫
+# ✨ hacktoberfest2023 💫
 
 ![banner](https://hacktoberfest.com/_next/static/media/digitalocean-logo.43bef5fe.svg)
 
-## 🌱 Contributing to hacktoberfest 2022
+## 🌱 Contributing to hacktoberfest 2023
 
-### Welcome to hacktoberfest 2021 Public Repository. 👨🏻‍💻
+### Welcome to hacktoberfest 2023 Public Repository. 👨🏻‍💻
 <p>A month-long celebration from October 1st - 31st sponsored by Digital Ocean and GitHub to get people involved in Open Source. Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
 
 https://hacktoberfest.digitalocean.com/</p>

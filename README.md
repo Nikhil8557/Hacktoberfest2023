@@ -1,10 +1,11 @@
-# ✨ hacktoberfest2021 💫
 
-![banner](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg)
+# ✨ hacktoberfest2023 💫
 
-## 🌱 Contributing to hacktoberfest 2021
+![banner](https://hacktoberfest.com/_next/static/media/digitalocean-logo.43bef5fe.svg)
 
-### Welcome to hacktoberfest 2021 Public Repository. 👨🏻‍💻
+## 🌱 Contributing to hacktoberfest 2023
+
+### Welcome to hacktoberfest 2023 Public Repository. 👨🏻‍💻
 <p>A month-long celebration from October 1st - 31st sponsored by Digital Ocean and GitHub to get people involved in Open Source. Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
 
 https://hacktoberfest.digitalocean.com/</p>
@@ -32,7 +33,7 @@ git clone https://github.com/your-username/HacktoberFest2021.git
 ```
 * change the present working directory
 ```markdown
-cd HacktoberFest2021
+cd HacktoberFest2022
 ```
 * Add/Create your project to the specific folder as described in what you can contribute section.
 * Make a new branch
